@@ -1,7 +1,6 @@
 package com.programacionmovilprimeraapp.taller.questions
 
-import com.programacionmovilprimeraapp.com.pdm0126.taller1_00052424.dataClass.Question
-
+import com.programacionmovilprimeraapp.taller.dataClass.Question
 
 val quizQuestions = listOf(
     Question(
